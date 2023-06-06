@@ -5,7 +5,6 @@ from time import sleep
 import argparse
 from os import system
 
-system("pip3 install mechanize colorama")
 
 
 init()
